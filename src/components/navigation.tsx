@@ -23,7 +23,7 @@ export function Navigation() {
         {/* Left Section: Logo */}
         <div className="flex items-center">
           <img
-            src="https://i.postimg.cc/3NZmYVm6/temp-Imagenlk-Xy0.avif"
+            src="https://i.postimg.cc/c4sQGJpX/temp-Image-CGe4jl.avif"
             alt="Wisdom Roots Logo"
             className="w-16 h-auto"
             style={{
